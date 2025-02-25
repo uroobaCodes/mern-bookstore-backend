@@ -48,7 +48,7 @@ This backend connects to a React + Zustand frontend. Follow the setup guide in t
 | GET    | `/api/books`       | Fetch all books                      | ❌ No        |
 | GET    | `/api/books/:id`   | Fetch a single book by ID            | ❌ No        |
 | GET    | `/api/books/weekly-book`| Fetch a weekly book             | ❌ No        |
-| POST   | `/api/books/create-book' | Add a new book                  | ✅ Yes       |
+| POST   | `/api/books/create-book` | Add a new book                  | ✅ Yes       |
 | PUT    | `/api/books/edit/:id`   | Update book details             | ✅ Yes       |
 | DELETE | `/api/books/:id`   | Delete a book                        | ✅ Yes       |
 | POST   | `/api/auth/admin` | Admin Sign-in                 | ✅ Yes        |
