@@ -7,7 +7,7 @@ This is the backend for the MERN Bookstore, built with **Node.js**, **Express**,
 - User roles (Admin & Customers)  
 - RESTful API with Express.js  
 - MongoDB database integration
-- 
+   
 ## 🛠️ Tech Stack  
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
